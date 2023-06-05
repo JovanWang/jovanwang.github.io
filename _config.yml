@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haotian Wang / Person Pages"
+title                    : "Haotian Wang / Home"
 title_separator          : "-"
 name                     : &name "Haotian Wang"
 description              : &description "personal description"
